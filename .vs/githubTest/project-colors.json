@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "36b8db72-f7e6-4ea0-ac38-f30a66cfead0": {
+      "ProjectGuid": "36b8db72-f7e6-4ea0-ac38-f30a66cfead0",
+      "DisplayName": "githubTest",
+      "ColorIndex": 0
+    },
+    "95f2ba43-f956-4c20-add7-1a0c3128afbb": {
+      "ProjectGuid": "95f2ba43-f956-4c20-add7-1a0c3128afbb",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
